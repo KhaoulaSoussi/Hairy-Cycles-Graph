@@ -19,3 +19,5 @@ Note that the program also covers bushy cycles (e.g. the fifth input graph)
 A bushy cycle in this case is one where the paths coming out of a vertex of a hairy cycle have degree >= 2 vertices:
 
 ![bushy cycle](https://user-images.githubusercontent.com/85248282/166261691-56480f32-1604-43f4-b4f5-066afbae924f.png)
+
+Done on May 30th, 2021
